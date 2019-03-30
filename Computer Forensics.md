@@ -67,9 +67,8 @@ Computer forensics is performed with a wide range of specially designed tools, b
 
 #### Open Source/Free
 - [Autopsy/The Sleuth Kit](https://www.sleuthkit.org/autopsy/)
-- [SANS Investigative Forensic Toolkit](https://digital-forensics.sans.org/community/downloads)
+- [SIFT Workstation](https://digital-forensics.sans.org/community/downloads)
 - [Magnet RAM Capture](https://www.magnetforensics.com/computer-forensics/acquiring-memory-with-magnet-ram-capture/)
-
 
 ## Online Resources
 
@@ -84,7 +83,6 @@ Computer forensics is performed with a wide range of specially designed tools, b
 - [Computer Forensics Field Triage Process Model](https://commons.erau.edu/jdfsl/vol1/iss2/2/)
 - [The future of computer forensics: a needs analysis survey](https://www.sciencedirect.com/science/article/pii/S0167404804000100)
 - [A cyber forensics ontology: creating a new approach to studying cyber forensics](https://www.sciencedirect.com/science/article/pii/S1742287606000703)
-
 
 ## Print Resources
 
