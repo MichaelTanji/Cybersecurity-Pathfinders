@@ -1,4 +1,5 @@
-Field: Threat Hunting
+# Field: Threat Hunting
+
 ## Formal Definition
 
 ## Informal Definition
