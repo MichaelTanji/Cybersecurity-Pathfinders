@@ -1,40 +1,34 @@
-Field: Incident Response
+Field: Threat Hunting
+## Formal Definition
 
-Formal Definition
+## Informal Definition
 
+## Utility
 
-Informal Definition
+## Educational Requirements
 
+### Commercial
 
-Utility
+### Government
 
+### Academic
 
-Educational Requirements
+## Technical Requirements
 
-Commercial
+### Paid
 
-Government
+### Open Source/Free
 
-Academic
+## Online Resources
 
+## Print Resources
 
-Technical Requirements
+### Books
 
-Paid
+## Social Resources
 
-Open Source/Free
+### Related Twitter Hashtags
 
+### LinkedIn Groups
 
-Online Resources
-
-Print Resources
-
-Books
-
-Social Resources
-
-Related Twitter Hashtags
-
-LinkedIn Groups
-
-Reddit
+### Reddit

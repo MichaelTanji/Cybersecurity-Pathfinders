@@ -31,7 +31,7 @@ Formal or on-the-job training in computer forensic evidence collection and analy
 - [Guidance Software](https://www.opentext.com/products-and-solutions/services/training-and-learning-services/course-catalogue/encase-training)
 - [Cybrary](https://www.cybrary.it/)
 
-#### government
+#### Government
 
 Law enforcement organizations may send their members to commercial training or through government supplied training at outlets like the [Federal Law Enforcement Training Center](https://www.fletc.gov/training-catalog), [National White Collar Crime Center](http://www.iacpcybercenter.org/investigators/training/), or [Defense Cyber Training Academy](https://www.dc3.mil/cyber-training)
 

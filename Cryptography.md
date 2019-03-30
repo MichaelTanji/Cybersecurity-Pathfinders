@@ -1,40 +1,35 @@
-Field: Incident Response
+# Field: Cryptography
 
-Formal Definition
+## Formal Definition
 
+## Informal Definition
 
-Informal Definition
+## Utility
 
+## Educational Requirements
 
-Utility
+### Commercial
 
+### Government
 
-Educational Requirements
+### Academic
 
-Commercial
+## Technical Requirements
 
-Government
+### Paid
 
-Academic
+### Open Source/Free
 
+## Online Resources
 
-Technical Requirements
+## Print Resources
 
-Paid
+### Books
 
-Open Source/Free
+## Social Resources
 
+### Related Twitter Hashtags
 
-Online Resources
+### LinkedIn Groups
 
-Print Resources
-
-Books
-
-Social Resources
-
-Related Twitter Hashtags
-
-LinkedIn Groups
-
-Reddit
+### Reddit
