@@ -19,6 +19,8 @@ The U.S. Bureau of Labor Statistics does not list "computer forensics" as an occ
 - [Forensic Science Technician](https://www.bls.gov/ooh/life-physical-and-social-science/forensic-science-technicians.htm): $57,850
 - [Information Security Analyst](https://www.bls.gov/ooh/computer-and-information-technology/information-security-analysts.htm): $95,510
 
+A search of job hunting and salary assessment websites indicates employees with the title "threat hunter" may earn between $66,000 and $83,000.
+
 ## Educational Requirements
 
 Formal or on-the-job training in threat hunting. Some commercial sources of training include:
