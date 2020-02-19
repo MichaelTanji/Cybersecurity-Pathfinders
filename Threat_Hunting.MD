@@ -25,10 +25,34 @@ Formal or on-the-job training in threat hunting. Some commercial sources of trai
 
 ### Commercial
 
+- [SANS](https://www.sans.org/)
+- [Cybrary](https://www.cybrary.it/)
+
 ### Government
+
+Law enforcement organizations may send their members to commercial training or through government supplied training at outlets like the [Federal Law Enforcement Training Center](https://www.fletc.gov/training-catalog), [National White Collar Crime Center](http://www.iacpcybercenter.org/investigators/training/), or [Defense Cyber Training Academy](https://www.dc3.mil/cyber-training)
 
 ### Academic
 
+The following colleges and universities are designated members of the National Centers of Digital Forensics Academic Excellence (CDFAE):
+
+- [Anne Arundel Community College](http://www.aacc.edu/)
+- [Armstrong State University](https://www.armstrong.edu/)
+- [Century College](http://www.century.edu/)
+- [Champlain College](http://www.champlain.edu/)
+- [Davenport University](http://www.davenport.edu/)
+- [Daytona State College](http://www.daytonastate.edu/)
+- [Ferris State University](http://www.ferris.edu/)
+- [Howard Community College](http://www.howardcc.edu/)
+- [Longwood University](http://www.longwood.edu/)
+- [Middle Georgia State University](http://www.mga.edu/)
+- [Norwich University](http://www.norwich.edu/)
+- [Richland College](http://www.richlandcollege.edu/)
+- [Stevenson University](http://www.stevenson.edu/)
+- [University of Maryland University College](http://www.umuc.edu/)
+- [Utica College](http://www.utica.edu/)
+
+The National Security Agency has designated a number of colleges and universities as National Centers of Academic Excellence in Cyber Defense (this may include forensics as well as other defensive disciplines). A current list is available at [the IDA website](https://www.iad.gov/NIETP/reports/cae_designated_institutions.cfm)
 
 ## Technical Requirements
 
