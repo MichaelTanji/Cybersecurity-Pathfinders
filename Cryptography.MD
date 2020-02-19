@@ -63,3 +63,5 @@ Formal degrees are almost exclusively "cybersecurity" or "computer security" deg
 - Cryptographers and Cryptanalysts
 
 ### Reddit
+
+[r/crypto](https://www.reddit.com/r/crypto/)
